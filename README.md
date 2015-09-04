@@ -18,5 +18,5 @@ https://panic.com/transmit/
 - hi!
 - who are you?
 - why are we here?
-- - why should you care about the internet?
+  - why should you care about the internet?
 - - why should you care about programming?
