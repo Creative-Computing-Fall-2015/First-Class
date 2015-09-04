@@ -26,6 +26,6 @@ https://github.com/Creative-Computing-Fall-2015
   - do you really need anything these things?
   
 Reading
-cool - http://www.rand.org/pubs/papers/P8014/index2.html
-useful - http://www.mit.edu/~rei/wwwintro.html
-mindblowing - http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+- cool: http://www.rand.org/pubs/papers/P8014/index2.html
+- useful: http://www.mit.edu/~rei/wwwintro.html
+- mindblowing: http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
