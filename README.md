@@ -22,6 +22,7 @@ https://github.com/Creative-Computing-Fall-2015
   - a text editor - http://www.sublimetext.com/3
   - an FTP client - http://fetchsoftworks.com/ or https://panic.com/transmit/
   - a code repository - https://github.com/
+    - class organization - https://github.com/Creative-Computing-Fall-2015
   - (nice to have) an internet host - https://www.dreamhost.com/
   - do you really need anything these things?
   
