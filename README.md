@@ -43,6 +43,10 @@ https://github.com/Creative-Computing-Fall-2015
 - useful: http://www.mit.edu/~rei/wwwintro.html
 - mindblowing: http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
 
+# Stuff Mentioned
+- https://www.facebook.com/dropdeadNS/videos/10153064773208152/
+- http://www.amazon.com/The-Cuckoos-Egg-Tracking-Espionage/dp/1416507787
+
 # Next Week on Creative Computing...
 
 - we'll get everyone their OWN server space to do experiments!
