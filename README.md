@@ -3,7 +3,7 @@
 Our first class! Wow!
 
 We're not going to waste the first week! We'll quickly introduce ourselves and make sure we care that we're here, and then! We're off the to the races. We're going to make a website! But first we need to setup our environment and canvas. What are the bare essentials to comfortably making a website? Believe it or not... this is a website.
-!(https://s-media-cache-ak0.pinimg.com/originals/b2/8a/3a/b28a3a52ee99399a5389e758f7de87b6.gif)
+![https://s-media-cache-ak0.pinimg.com/originals/b2/8a/3a/b28a3a52ee99399a5389e758f7de87b6.gif]
 
 Class Google Doc:
 https://docs.google.com/document/d/19Lxuo2SOpqxjHXmFwsztn0wWPM2QKVhWFNqJaVg3CeY/edit
