@@ -34,7 +34,7 @@ https://github.com/Creative-Computing-Fall-2015
   - a code repository - https://github.com/
     - class organization - https://github.com/Creative-Computing-Fall-2015
   - (nice to have) an internet host - https://www.dreamhost.com/
-  - do you really need anything these things?
+  - do you really need anything of these things?
   
 # Reading
 
