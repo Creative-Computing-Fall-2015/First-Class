@@ -19,4 +19,10 @@ https://panic.com/transmit/
 - who are you?
 - why are we here?
   - why should you care about the internet?
-- - why should you care about programming?
+  - why should you care about programming?
+- what is the internet?
+- what do you need to do intenret stuff?
+  - a computer (please be a mac...)
+  - a text editor - [http://www.sublimetext.com/3]
+  - an FTP client
+  
